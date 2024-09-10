@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANKIT RAJ MISHRA</h1>
 <h3 align="center">A student with AI/ML Enthusiasm </h3>
-<img src="https://github.com/Xer0Weeds/Contributors/blob/main/Creators%20%26%20Projects/Z3nith.jpg" alt="Z3nithn" width="600" style="vertical-align: bottom;">
+<img src="https://github.com/KR4K3N0/Images/blob/main/Screenshot%202024-09-10%20210807.png" alt="Z3nithn" width="600" style="vertical-align: bottom;">
 
 # 💫 About Me:
 🔭 I’m currently working on Python,Java <br><br>👨‍💻 All of my projects are available at https://github.com/KR4K3N0<br><br>💬 Ask me about C,Python,JAVA.
